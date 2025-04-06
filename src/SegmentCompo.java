@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 public class SegmentCompo {
     private Point pt1;
     private Point pt2;
@@ -9,6 +11,7 @@ public class SegmentCompo {
 
 
     }
+
 
 
 
